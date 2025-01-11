@@ -12,12 +12,13 @@ Feel free to reach out—let’s explore the world of data together! 🌟
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - **Statistical Analysis**: Hypothesis testing, regression, descriptive statistics  
 - **Database Management**: MySQL, PostgreSQL
-- 
+
+
 **Soft Skills**  
-- Problem-Solving and Critical Thinking  
-- Attention to Detail  
-- Communication and Storytelling with Data  
-- Time Management and Organizational Skills  
-- Team Collaboration and Stakeholder Engagement  
+- **Problem-Solving and Critical Thinking**  
+- **Attention to Detail**  
+- **Communication and Storytelling with Data**  
+- **Time Management and Organizational Skills**  
+- **Team Collaboration and Stakeholder Engagement**  
 
 
