@@ -26,19 +26,23 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 **Annual Financial Analysis Dashboard**
 ![image](Annual Financial Records.PNG)
 Analyzed and visualized yearly financial data, highlighting revenue, expenses, and profit trends to support strategic decision-making.
+
 [Interact with the dashboard here]
 
 **Customer Feedback Analysis Dashboard**
 ![image](Customer Feedback Dashoard.PNG)
 Developed an interactive dashboard to analyze customer sentiment, satisfaction trends, and actionable insights for improved service delivery.
+
 [Interact with the dashboard here]
 
 **Sales and Revenue Analysis Dashboard**
 ![image](Sales and Revenue Dashboard.PNG)
 Created a comprehensive dashboard showcasing sales performance, revenue growth, and product metrics across regions and customer segments.
-[Interact with the dashboard here]
+
+[Interact with the dashboard here](https://1drv.ms/x/c/81a758a4a49cfbb0/EV7Fi9VVn-FNjb1MCQ1_Eb4BUqCuwC-UW9MnGuV93MZn5Q?e=g0TKNg)
 
 **Executive Summary Finance Report**
 ![image](Executive Summary Dashboard.PNG)
 Compiled key financial metrics into a concise report, providing stakeholders with an overview of performance through clear and impactful visualizations.
+
 [Interact with the dashboard here]
