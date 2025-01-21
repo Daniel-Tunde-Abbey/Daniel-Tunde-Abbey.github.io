@@ -1,9 +1,8 @@
 ## ABOUT ME 
-Hello! 👋 I’m Daniel Tunde Abbey, a results-driven Data Analyst with expertise in data analytics, visualization, and statistical analysis.
+Hello! 👋 I’m Daniel Tunde Abbey, a skilled Data Analyst dedicated to transforming data into actionable insights. I specialize in data collection, analysis, and visualization, leveraging tools like Excel, Power BI, Tableau, and Python to uncover trends and support data-driven decisions. I have honed my ability to work across various industries, delivering impactful results in projects. I am committed to continuous learning and applying innovative solutions to solve real-world problems through data.
 
-I’m passionate about transforming raw data into actionable insights that drive decision-making and business growth. My portfolio highlights a range of projects showcasing my technical skills, creativity, and ability to solve complex challenges.
 
-Feel free to reach out—let’s explore the world of data together! 🌟
+Feel free to reach out—let’s explore the world of data together! 🌟, 
 
 
 ## SKILLS
