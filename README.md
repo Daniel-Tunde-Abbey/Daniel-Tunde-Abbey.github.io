@@ -34,4 +34,9 @@ Developed an interactive dashboard to analyze customer sentiment, satisfaction t
 [Interact with the dashboard here]
 
 **Sales and Revenue Analysis Dashboard**
-![image](Customer Feedback Dashoard.PNG)
+![image](Sales and Revenue Dashboard.PNG)
+Created a comprehensive dashboard showcasing sales performance, revenue growth, and product metrics across regions and customer segments.
+[Interact with the dashboard here]
+
+**Executive Summary Finance Report**
+![image](Sales and Revenue Dashboard.PNG)
