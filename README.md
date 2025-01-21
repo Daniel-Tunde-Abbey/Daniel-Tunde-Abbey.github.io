@@ -22,4 +22,6 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 
 ## MY PROJECTS
 *Showcasing a collection of data-driven projects highlighting my expertise in data analysis, visualization, and storytelling using tools like Python, Power BI, Tableau, and Excel.*
+
 **Annual Financial Analysis Dashboard**
+![image](1 anietie etuk data analytics car project.jpeg)
