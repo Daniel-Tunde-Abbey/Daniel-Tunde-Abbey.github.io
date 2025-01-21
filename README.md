@@ -29,4 +29,9 @@ Analyzed and visualized yearly financial data, highlighting revenue, expenses, a
 [Interact with the dashboard here]
 
 **Customer Feedback Analysis Dashboard**
-![image](Annual Financial Records.PNG)
+![image](Customer Feedback Dashoard.PNG)
+Developed an interactive dashboard to analyze customer sentiment, satisfaction trends, and actionable insights for improved service delivery.
+[Interact with the dashboard here]
+
+**Sales and Revenue Analysis Dashboard**
+![image](Customer Feedback Dashoard.PNG)
