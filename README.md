@@ -39,4 +39,6 @@ Created a comprehensive dashboard showcasing sales performance, revenue growth, 
 [Interact with the dashboard here]
 
 **Executive Summary Finance Report**
-![image](Sales and Revenue Dashboard.PNG)
+![image](Executive Summary Dashboard.PNG)
+Compiled key financial metrics into a concise report, providing stakeholders with an overview of performance through clear and impactful visualizations.
+[Interact with the dashboard here]
