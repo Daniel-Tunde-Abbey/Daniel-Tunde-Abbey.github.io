@@ -25,5 +25,8 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 
 **Annual Financial Analysis Dashboard**
 ![image](Annual Financial Records.PNG)
-Visualized yearly financial performance, highlighting revenue, expenses, and profit trends for strategic decision-making.
+Analyzed and visualized yearly financial data, highlighting revenue, expenses, and profit trends to support strategic decision-making.
 [Interact with the dashboard here]
+
+**Customer Feedback Analysis Dashboard**
+![image](Annual Financial Records.PNG)
