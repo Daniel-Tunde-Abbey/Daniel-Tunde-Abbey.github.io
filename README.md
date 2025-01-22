@@ -74,7 +74,7 @@ Compiled key financial metrics into a concise report, providing stakeholders wit
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/daniel-tunde-abbey-8a5479261"></a></td>
+      <td><a href="https://www.linkedin.com/in/daniel-tunde-abbey-8a5479261"></a></td>
     </tr>
   </tbody>
 </table>
