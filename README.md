@@ -54,7 +54,9 @@ Compiled key financial metrics into a concise report, providing stakeholders wit
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
-    <tr>
+<table>
+  <tbody>
+    <tr> 
       <td>📧</td>
       <td><a href="mailto:danielabbey020@gmail.com">danielabbey020@gmail.com</a></td>
     </tr>
