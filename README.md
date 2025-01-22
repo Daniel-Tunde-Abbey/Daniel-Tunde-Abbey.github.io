@@ -70,7 +70,7 @@ Compiled key financial metrics into a concise report, providing stakeholders wit
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Daniel Tunde Abbey Resume.pdf">Download my CV</a></td>
+      <td><a href="Daniel Tunde Abbey Resume.pdf">My Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
