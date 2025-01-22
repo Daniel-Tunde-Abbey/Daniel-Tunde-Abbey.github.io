@@ -73,7 +73,7 @@ Compiled key financial metrics into a concise report, providing stakeholders wit
       <td><a href="Daniel Tunde Abbey Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>🌐</td>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/daniel-tunde-abbey-8a5479261)</a></td>
-    </tr>
+      <td>🌐</td>
+       <td><a href="https://linkedin.com/in/daniel-tunde-abbey-8a5479261">Check me out on LinkedIn</a></td>
   </tbody>
 </table>
