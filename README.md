@@ -66,19 +66,15 @@ Compiled key financial metrics into a concise report, providing stakeholders wit
     </tr>
     <tr>
       <td>📍</td>
-      <td>Kano, Nigeria</td>
+      <td>Kano, Nigeria</td>    
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Daniel Tunde Abbey Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/daniel-tunde-abbey-8a5479261"></a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
