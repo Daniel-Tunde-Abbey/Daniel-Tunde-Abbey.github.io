@@ -49,3 +49,36 @@ Created a comprehensive dashboard showcasing sales performance, revenue growth, 
 Compiled key financial metrics into a concise report, providing stakeholders with an overview of performance through clear and impactful visualizations.
 
 [Interact with the dashboard](https://app.powerbi.com/links/sIuaSHhriF?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:danielabbey020@gmail.com">danielabbey020@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 706-622-403-8</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Kano, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/daniel-tunde-abbey-8a5479261"></a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
