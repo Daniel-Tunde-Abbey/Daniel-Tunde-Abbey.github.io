@@ -26,7 +26,9 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 **Annual Financial Analysis Dashboard**
 ![image](Annual Financial Records.PNG)
 Analyzed and visualized yearly financial data, highlighting revenue, expenses, and profit trends to support strategic decision-making.
+
 [Read More](https://github.com/Daniel-Tunde-Abbey/Annual-Financial-Records-Analysis)
+
 [Interact with the dashboard](https://app.powerbi.com/links/npYppGqAtW?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
 
 
