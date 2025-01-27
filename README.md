@@ -29,17 +29,16 @@ Analyzed and visualized yearly financial data, highlighting revenue, expenses, a
 
 [Read More](https://github.com/Daniel-Tunde-Abbey/Annual-Financial-Records-Analysis)
 
-[Interact with the dashboard](https://app.powerbi.com/links/npYppGqAtW?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
+[Interact with the dashboard here](https://app.powerbi.com/links/npYppGqAtW?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
 
 
 **Customer Feedback Analysis Dashboard**
 ![image](Customer Feedback Dashoard.PNG)
 Developed an interactive dashboard to analyze customer sentiment, satisfaction trends, and actionable insights for improved service delivery.
 
-[Read More]()
+[Read More](https://github.com/Daniel-Tunde-Abbey/Customer-Feedback-Analysis-Dashboard)
 
-
-[Interact with the dashboard](https://1drv.ms/x/c/81a758a4a49cfbb0/ERzxBBuVhMBIh7bY21f5MN0B1GbCT60BQaUNeYNP84UuYQ?e=Yp0H2p)
+[Interact with the dashboard here](https://1drv.ms/x/c/81a758a4a49cfbb0/ERzxBBuVhMBIh7bY21f5MN0B1GbCT60BQaUNeYNP84UuYQ?e=Yp0H2p)
 
 
 **Sales and Revenue Analysis Dashboard**
