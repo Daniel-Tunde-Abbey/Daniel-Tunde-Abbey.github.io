@@ -28,7 +28,7 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 Analyzed and visualized yearly financial data, highlighting revenue, expenses, and profit trends to support strategic decision-making.
 
 [Interact with the dashboard](https://app.powerbi.com/links/npYppGqAtW?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
-
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Customer Feedback Analysis Dashboard**
 ![image](Customer Feedback Dashoard.PNG)
