@@ -9,8 +9,7 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 **Technical Skills**  
 - **Data Analysis & Cleaning**: Python, SQL, Excel  
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Statistical Analysis**: Hypothesis testing, regression, descriptive statistics  
-- **Database Management**: MySQL, PostgreSQL
+- **Database Management**: MySQL
 
 
 **Soft Skills**  
