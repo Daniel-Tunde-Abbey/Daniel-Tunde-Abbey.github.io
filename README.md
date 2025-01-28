@@ -40,6 +40,16 @@ Developed an interactive dashboard to analyze customer sentiment, satisfaction t
 [Interact with the dashboard here](https://1drv.ms/x/c/81a758a4a49cfbb0/ERzxBBuVhMBIh7bY21f5MN0B1GbCT60BQaUNeYNP84UuYQ?e=Yp0H2p)
 
 
+**Supply Chain Analysis Dashboard**
+![image](Supply Chain 1.PNG)
+The Supply Chain Analysis Dashboard provides a comprehensive view of key supply chain metrics, including total revenue, product sales, stock levels, costs, and profit margins. It enables businesses to track revenue distribution across product types, assess supplier performance, analyze customer demographics, and evaluate shipping carrier contributions.
+
+[Read More](https://github.com/Daniel-Tunde-Abbey/Supply-Chain-Analysis-Dashboard)
+
+[Interact with the dashboard here](https://app.powerbi.com/links/cHyto1e900?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
+
+
+
 **Sales and Revenue Analysis Dashboard**
 ![image](Sales and Revenue Dashboard.PNG)
 Created a comprehensive dashboard showcasing sales performance, revenue growth, and product metrics across regions and customer segments.
