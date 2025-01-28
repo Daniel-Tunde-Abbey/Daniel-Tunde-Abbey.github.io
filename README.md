@@ -46,14 +46,16 @@ Created a comprehensive dashboard showcasing sales performance, revenue growth, 
 
 [Read More](https://github.com/Daniel-Tunde-Abbey/Sales-and-Revenue-Analysis-Dashboard)
 
-[Interact with the dashboard](https://1drv.ms/x/c/81a758a4a49cfbb0/EV7Fi9VVn-FNjb1MCQ1_Eb4BUqCuwC-UW9MnGuV93MZn5Q?e=g0TKNg)
+[Interact with the dashboard here](https://1drv.ms/x/c/81a758a4a49cfbb0/EV7Fi9VVn-FNjb1MCQ1_Eb4BUqCuwC-UW9MnGuV93MZn5Q?e=g0TKNg)
 
 
 **Executive Summary Finance Report**
 ![image](Executive Summary Dashboard.PNG)
 Compiled key financial metrics into a concise report, providing stakeholders with an overview of performance through clear and impactful visualizations.
 
-[Interact with the dashboard](https://app.powerbi.com/links/sIuaSHhriF?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
+[Read More](https://github.com/Daniel-Tunde-Abbey/Executive-Summary-Finance-Report)
+
+[Interact with the dashboard here](https://app.powerbi.com/links/sIuaSHhriF?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
 
 
 ## CONTACT DETAILS
