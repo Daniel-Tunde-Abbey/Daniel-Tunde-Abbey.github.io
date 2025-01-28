@@ -42,7 +42,7 @@ Developed an interactive dashboard to analyze customer sentiment, satisfaction t
 
 **Supply Chain Analysis Dashboard**
 ![image](Supply Chain 1.PNG)
-The Supply Chain Analysis Dashboard provides a comprehensive view of key supply chain metrics, including total revenue, product sales, stock levels, costs, and profit margins. It enables businesses to track revenue distribution across product types, assess supplier performance, analyze customer demographics, and evaluate shipping carrier contributions.
+The Supply Chain Analysis Dashboard was designed to provide a comprehensive overview of critical supply chain metrics, including total revenue, product sales, stock levels, costs, and profit margins. It was reported that businesses could use this dashboard to track revenue distribution across product types, assess supplier performance, analyze customer demographics, and evaluate shipping carrier contributions. 
 
 [Read More](https://github.com/Daniel-Tunde-Abbey/Supply-Chain-Analysis-Dashboard)
 
