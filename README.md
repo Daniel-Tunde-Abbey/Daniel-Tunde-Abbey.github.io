@@ -59,6 +59,15 @@ Created a comprehensive dashboard showcasing sales performance, revenue growth, 
 [Interact with the dashboard here](https://1drv.ms/x/c/81a758a4a49cfbb0/EV7Fi9VVn-FNjb1MCQ1_Eb4BUqCuwC-UW9MnGuV93MZn5Q?e=g0TKNg)
 
 
+**Hospital ER Analytics Report**
+![image](Hospital ER.PNG)
+The Hospital ER Dashboard was created to offer real-time insights into emergency room operations, enabling hospital administrators to manage patient flow, track wait times, and monitor key performance indicators such as admission rates, patient demographics, and resource allocation. 
+
+[Read More]()
+
+[Interact with the dashboard here](https://app.powerbi.com/links/4PxbhKhQF9?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
+
+
 **Executive Summary Finance Report**
 ![image](Executive Summary Dashboard.PNG)
 Compiled key financial metrics into a concise report, providing stakeholders with an overview of performance through clear and impactful visualizations.
