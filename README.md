@@ -63,7 +63,7 @@ Created a comprehensive dashboard showcasing sales performance, revenue growth, 
 ![image](Hospital ER.PNG)
 The Hospital ER Dashboard was created to offer real-time insights into emergency room operations, enabling hospital administrators to manage patient flow, track wait times, and monitor key performance indicators such as admission rates, patient demographics, and resource allocation. 
 
-[Read More]()
+[Read More](https://github.com/Daniel-Tunde-Abbey/Hospital-ER-Analytics-Report)
 
 [Interact with the dashboard here](https://app.powerbi.com/links/4PxbhKhQF9?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
 
