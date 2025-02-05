@@ -22,6 +22,16 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 ## MY PROJECTS
 *Showcasing a collection of data-driven projects highlighting my expertise in data analysis, visualization, and storytelling using tools like Python, Power BI, Tableau, and Excel.*
 
+
+**Business Growth Analytics Report**
+![image](Business Growth Analytics Report.PNG)
+The Business Growth Analytics Dashboard was an interactive visualization tool designed to track key sales and profitability metrics. It provided insights into total sales, profit margins, top-performing products, and sales distribution by category, region, and customer segment. 
+
+[Read More]()
+
+[Interact with the dashboard here]()
+
+
 **Annual Financial Analysis Dashboard**
 ![image](Annual Financial Records.PNG)
 Analyzed and visualized yearly financial data, highlighting revenue, expenses, and profit trends to support strategic decision-making.
