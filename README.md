@@ -27,9 +27,9 @@ Feel free to reach out—let’s explore the world of data together! 🌟,
 ![image](Business Growth Analytics Report.PNG)
 The Business Growth Analytics Dashboard was an interactive visualization tool designed to track key sales and profitability metrics. It provided insights into total sales, profit margins, top-performing products, and sales distribution by category, region, and customer segment. 
 
-[Read More]()
+[Read More](https://github.com/Daniel-Tunde-Abbey/Business-Growth-Analytics-Report)
 
-[Interact with the dashboard here]()
+[Interact with the dashboard here](https://app.powerbi.com/links/417dEnjpW3?ctid=f73bbd3e-2c86-40d1-8fff-d2c041f1c075&pbi_source=linkShare)
 
 
 **Annual Financial Analysis Dashboard**
